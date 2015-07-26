@@ -1,0 +1,4 @@
+#codebook
+#data: merged dataset containing training set and test set, with activity labels and subjects
+#data_selc2: all the columns with mean() and std() in data
+#data_selc2_recast: the final dataset
